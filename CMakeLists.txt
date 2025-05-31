@@ -18,7 +18,6 @@ cmake_minimum_required(VERSION 3.20 FATAL_ERROR)
 
 find_package(cetmodules REQUIRED)
 project(ppfx VERSION 3.00.01 LANGUAGES CXX)
-project(ppfx LANGUAGES CXX)
 
 # cetbuildtools contains our cmake modules
 
